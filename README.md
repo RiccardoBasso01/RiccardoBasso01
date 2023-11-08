@@ -9,9 +9,11 @@
 <h3 align="center">Some of my last projects</h3>
 
 - [BoolzApp](https://github.com/RiccardoBasso01/boolzapp-vue)
-
-
 https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/0dbe9e25-2aef-4400-948a-6a5047e0d0fd
+
+- [Boolbnb]([https://github.com/RiccardoBasso01/boolzapp-vue](https://github.com/RiccardoBasso01/boolbnb))
+
+
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardobasso01&show_icons=true&locale=en&layout=compact" alt="riccardobasso01" /></p>
