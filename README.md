@@ -11,8 +11,8 @@
 - [BoolzApp](https://github.com/RiccardoBasso01/boolzapp-vue)
 
 
+https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/7aa254d0-f557-4e4d-807c-3dc9cacd9f23
 
-https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/772a52a2-6252-4489-887d-21b9e32e1916
 
 
 
