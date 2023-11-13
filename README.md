@@ -20,6 +20,13 @@ https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/7aa254d0-f55
 
 
 
+
+
+https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/91a86c7a-9fb6-4863-b701-5030fec7004c
+
+
+
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardobasso01&show_icons=true&locale=en&layout=compact" alt="riccardobasso01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riccardobasso01&show_icons=true&locale=en" alt="riccardobasso01" /></p>
