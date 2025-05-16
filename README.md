@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riccardo</h1>
 
-💻 I'm a Jr Full Stack Web Developer
+💻 I'm a Full Stack Web Developer
 
 📫 Contact me here -> **riccardo.basso2001@gmail.com**
 
