@@ -34,3 +34,16 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+---
+
+---
+
+<h3 align="center">📱 My Published App</h3>
+
+<a href="https://play.google.com/store/apps/details?id=com.riccardobasso.DailyDone" target="_blank">
+  <img src="assets/dailydone-logo.png" alt="dailyDone Logo" width="100"/>
+</a>
+
+**[dailyDone](https://play.google.com/store/apps/details?id=com.riccardobasso.DailyDone)** – A productivity app available on the Play Store 🚀
+
+
