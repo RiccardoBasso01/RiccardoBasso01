@@ -34,19 +34,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
----
-
-<h3 align="center">📌 Featured Projects</h3>
-
-- [**BoolzApp**](https://github.com/RiccardoBasso01/boolzapp-vue) – A WhatsApp clone built with Vue.js  
-  <img src="https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/7aa254d0-f557-4e4d-807c-3dc9cacd9f23" width="600" />
-
-- [**Boolbnb**](https://github.com/RiccardoBasso01/boolbnb) – A full-stack Airbnb-inspired platform  
-  <img src="https://github.com/RiccardoBasso01/RiccardoBasso01/assets/128648507/91a86c7a-9fb6-4863-b701-5030fec7004c" width="600" />
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardobasso01&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=riccardobasso01&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
