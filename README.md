@@ -41,7 +41,7 @@
 <h3 align="center">📱 My Published App</h3>
 
 <a href="https://play.google.com/store/apps/details?id=com.riccardobasso.DailyDone" target="_blank">
-  <img src="assets/dailydone-logo.png" alt="dailyDone Logo" width="100"/>
+  <img src="/logo-dailydone-app.png" alt="dailyDone Logo" width="100"/>
 </a>
 
 **[dailyDone](https://play.google.com/store/apps/details?id=com.riccardobasso.DailyDone)** – A productivity app available on the Play Store 🚀
